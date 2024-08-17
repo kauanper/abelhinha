@@ -10,7 +10,7 @@ public class Lobby {
         Floresta floresta = new Floresta();
 
         String intro = "-------INTRUDUCAO-------\nA COLMEIA E ORGANIZADA EM DIFERENTES SETORES EM QUE CADA UM DESEMPENHA UM PAPEL ESPECIFICO NA SOBREVIVENCIA E PROSPERIDADE DA COLONIA\n";
-        intro += "SAO ELES: \nPRODUCAO DE MEL: UMA SUBSTANCIA PODEROZA PARA AS ABELHAS \nCRIACAO DE ABELHAS: ALIMENTAR AS LARVAR COM POLEN \nESTACAO DE PESQUISA: EVOLUA-SE";
+        intro += "SAO ELES: \nPRODUCAO DE MEL: UMA SUBSTANCIA PODEROSA PARA AS ABELHAS \nCRIACAO DE ABELHAS: ALIMENTAR AS LARVAR COM POLEN \nESTACAO DE PESQUISA: EVOLUA-SE";
         System.out.println(intro);
         
         String comandos = "\n-------INSTRUCOES------- \nstatus -> ver status da abelhinha \nbag -> ver inventario da abelhinha\ncurar -> recupera energia da abelhinha\n";
